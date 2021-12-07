@@ -9,12 +9,12 @@
   and then 
 
   ```
-  ./fetch -u "http://apple.com,http://bing.com" 
+  ./gfetch -u "http://apple.com,http://bing.com" 
   ```
 
 ### Help
 
   ```
-  ./fetch --help
+  ./gfetch --help
 
   ```
