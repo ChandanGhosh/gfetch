@@ -1,4 +1,4 @@
-module github.com/chandanghosh/fetch
+module github.com/chandanghosh/gfetch
 
 go 1.14
 
