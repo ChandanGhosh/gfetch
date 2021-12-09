@@ -1,4 +1,6 @@
-## fetch
+## gfetch
+
+Simple fetch prgram to parallely download content from multiple websites
 
 ### run
   Run by building binary using 
